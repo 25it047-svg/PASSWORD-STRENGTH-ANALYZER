@@ -3,16 +3,18 @@
 ## Project Information
 
 **Project Title:** Password Strength Analyzer
+
 **Name:** KANIYAMUTHU B
+
 **Project ID:** 1
 
----
+
 
 ## Description
 
 The Password Strength Analyzer is a Python-based application that evaluates the strength of a user-entered password. It checks various security parameters such as password length, uppercase letters, lowercase letters, numbers, and special characters. Based on these checks, the application classifies the password as Weak, Medium, or Strong and provides suggestions for improvement.
 
----
+
 
 ## Objectives
 
@@ -21,7 +23,7 @@ The Password Strength Analyzer is a Python-based application that evaluates the 
 * Improve user awareness of password security.
 * Suggest stronger passwords when needed.
 
----
+
 
 ## Features
 
@@ -33,7 +35,7 @@ The Password Strength Analyzer is a Python-based application that evaluates the 
 * Provides security recommendations.
 * Generates a strong password suggestion.
 
----
+
 
 ## Technologies Used
 
@@ -43,7 +45,7 @@ The Password Strength Analyzer is a Python-based application that evaluates the 
 * Random Module
 * String Module
 
----
+
 
 ## Project Structure
 
@@ -56,7 +58,6 @@ Password_Strength_Analyzer/
 └── Report.pdf
 ```
 
----
 
 ## How to Run
 
@@ -68,6 +69,7 @@ Password_Strength_Analyzer/
 4. Run the cell.
 5. Enter a password when prompted.
 6. View the password strength analysis.
+
 
 ### Conclusion 
 This project helps users evaluate and improve the security of their passwords by analyzing key password characteristics and providing recommendations for stronger password creation.
